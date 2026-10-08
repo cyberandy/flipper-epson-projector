@@ -1,0 +1,9 @@
+dist/
+.ufbt/
+build/
+.vscode/
+.idea/
+compile_commands.json
+.clang-format
+.editorconfig
+.DS_Store
